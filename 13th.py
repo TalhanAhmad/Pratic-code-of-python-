@@ -3,5 +3,5 @@
 
 name = "harry is a good  boy"
 print(name.replace("  "," "))
-
+print
 # strings are immutabel a new strig are made and changes are made in them
