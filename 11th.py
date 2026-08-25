@@ -5,4 +5,14 @@ Respected sir you are selected!
 letter
 """
 # this aslo the chaining of replace
-print(letter.replace("<| Name |>","Talha").replace("<| Date |>","22 dec 2027"))
+print(letter.replace
+
+
+
+letter
+
+
+
+
+
+("<| Name |>","Talha").replace("<| Date |>","22 dec 2027"))
