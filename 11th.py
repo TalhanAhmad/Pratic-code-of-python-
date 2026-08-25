@@ -1,7 +1,8 @@
 letter = """
 dear <| Name |>,
 Respected sir you are selected!
-<| Date |>
+<| Date 
+letter
 """
 # this aslo the chaining of replace
 print(letter.replace("<| Name |>","Talha").replace("<| Date |>","22 dec 2027"))
