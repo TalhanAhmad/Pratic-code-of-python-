@@ -17,7 +17,7 @@ fruits.append(f5)
 fruits.append(f5
 print(fruits)
 fruits.append(f5
-
+fruits.append(f5
 
 # same pratic with cars name 
 
