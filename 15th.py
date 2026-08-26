@@ -3,7 +3,7 @@
 
 fruits.append(f5
 fruits = []
-
+fruits.append(f5
 f1 = input("enter the name of the fruit: ")
 fruits.append(f1)
 f2 = input("enter the name of the fruit: ")
