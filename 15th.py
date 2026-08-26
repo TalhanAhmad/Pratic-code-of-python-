@@ -1,7 +1,7 @@
 # use the code to add 5 fruits to the list from the user 
 # so here we will do it by using append method
 
-
+fruits.append(f5
 fruits = []
 
 f1 = input("enter the name of the fruit: ")
