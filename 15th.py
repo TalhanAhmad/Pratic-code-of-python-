@@ -1,4 +1,4 @@
-
+f5
 f5
 # use the code to add 5 fruits to the list from the user 
 # so here we will do it by using append method
