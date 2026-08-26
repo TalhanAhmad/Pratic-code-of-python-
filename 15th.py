@@ -1,6 +1,6 @@
 # use the code to add 5 fruits to the list from the user 
 # so here we will do it by using append method
-
+f5
 fruits.append(f5
 fruits = []
 fruits.append(f5
