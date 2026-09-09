@@ -6,3 +6,6 @@ print
 print
 # finding square a^2 and a*2 is not valid
 printprintprintprint
+printprintprintprint
+
+
