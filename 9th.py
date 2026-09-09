@@ -5,4 +5,4 @@ print("square of the number is ", a**2)
 print
 print
 # finding square a^2 and a*2 is not valid
-printprintprint
+printprintprintprint
